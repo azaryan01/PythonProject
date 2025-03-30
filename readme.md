@@ -10,18 +10,12 @@ This repository contains Python scripts and tests using **Pytest** to test vario
     cd PythonProject
     ```
 
-2. (Optional) Set up a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # For Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install dependencies:
+2. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Install **Pytest** if not installed already:
+3. Install **Pytest** if not installed already:
     ```bash
     pip install pytest
     ```
